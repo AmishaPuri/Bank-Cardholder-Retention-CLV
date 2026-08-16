@@ -49,6 +49,8 @@ Exported econometric summary parameters into a structured prompt framework to ge
 | **Mean 24-Month Portfolio CLV** | **$581.87** | Discounted expected net financial value per account. |
 | **95% Bootstrapped CI** | **[$576.76, $586.80]** | Empirical confidence bounds derived from 1,000 resamples. |
 
+---
+
 ## Repository Structure
 
 * `Bank_Customer_Survival_Analysis_CLV.ipynb` — Main Google Colab Notebook (Code, Outputs, Plots)
@@ -63,5 +65,4 @@ Exported econometric summary parameters into a structured prompt framework to ge
 ## Strategic Recommendations
 1. **Support Call Intervention:** Re-engineer the customer service workflow for accounts reaching 3+ contacts to resolve operational friction before attrition occurs.
 2. **Product Bundling Incentives:** Target single-product cardholders with multi-product rewards (e.g., savings accounts or credit lines) to lower hazard rates by ~19%.
-3. **Engagement Campaigns:** Deploy targeted transaction incentives for accounts showing declining monthly card usage. rewards (e.g., savings accounts or credit lines) to lower hazard rates by ~19%.
-## Repository Structure
+3. **Engagement Campaigns:** Deploy targeted transaction incentives for accounts showing declining monthly card usage.
