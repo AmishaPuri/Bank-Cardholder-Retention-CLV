@@ -41,6 +41,7 @@ Exported econometric summary parameters into a structured prompt framework to ge
 ## Key Results & Empirical Findings
 
 | Metric / Analysis | Statistical Output | Business Interpretation |
+| :--- | :--- | :--- |
 | **Log-Rank Hypothesis Test** | $p = 0.0008$ | Statistically significant difference in survival curves across customer segments. |
 | **Primary Churn Risk Factor** | $\text{HR} = 1.353$ ($p < 0.001$) | Each customer service contact increases instant churn risk by **35.3%**. |
 | **Primary Retention Driver** | $\text{HR} = 0.808$ ($p < 0.001$) | Each additional bank product held reduces churn hazard by **19.2%**. |
