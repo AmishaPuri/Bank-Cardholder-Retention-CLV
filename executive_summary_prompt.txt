@@ -1,0 +1,9 @@
+
+ACCENTURE STRATEGY CONSULTING INPUT BRIEF:
+- Mean 24-Month Expected Portfolio CLV: $581.87 (95% CI: [$576.76, $586.80])
+- Primary Churn Hazard Multipliers:
+  1. Contacts_Count_12_mon: Hazard Ratio = 1.353 (35.3% risk increase per customer outreach call, p < 0.001)
+  2. Months_Inactive_12_mon: Hazard Ratio = 1.113 (11.3% risk increase per inactive month, p < 0.001)
+- Primary Retention Protective Factors:
+  1. Total_Relationship_Count: Hazard Ratio = 0.808 (19.2% risk reduction per additional bank product, p < 0.001)
+  2. Total_Trans_Ct: Hazard Ratio = 0.942 (5.8% risk reduction per transaction executed, p < 0.001)
