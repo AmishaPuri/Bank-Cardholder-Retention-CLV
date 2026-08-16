@@ -50,7 +50,7 @@ Exported econometric summary parameters into a structured prompt framework to ge
 | **95% Bootstrapped CI** | **[$576.76, $586.80]** | Empirical confidence bounds derived from 1,000 resamples. |
 
 ## Repository Structure
-├── Bank_Customer_Survival_Analysis_CLV.ipynb   # Main Google Colab Notebook (Code, Outputs, Plots)
+├── Bank_Customer_Survival_Analysis_CLV.ipynb    # Main Google Colab Notebook (Code, Outputs, Plots)
 ├── BankChurners.csv                             # Core Dataset
 ├── churn_gender_logrank.png                     # Kaplan-Meier Survival Curves
 ├── cox_hazard_ratios.png                        # Hazard Ratio Plot with 95% CIs
